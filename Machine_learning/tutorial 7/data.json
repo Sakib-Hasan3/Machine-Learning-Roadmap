@@ -1,0 +1,7 @@
+[
+    {
+        "student.name":"Rahim",
+        "student.subjects.math":90,
+        "student.subjects.english":85
+    }
+]

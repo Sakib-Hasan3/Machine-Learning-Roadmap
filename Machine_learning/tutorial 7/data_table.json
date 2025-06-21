@@ -1,0 +1,1 @@
+{"schema":{"fields":[{"name":"index","type":"integer"},{"name":"name","type":"string"},{"name":"math","type":"integer"},{"name":"english","type":"integer"},{"name":"category","type":"string"},{"name":"eng_status","type":"string"}],"primaryKey":["index"],"pandas_version":"1.4.0"},"data":[{"index":0,"name":"Rahim","math":90,"english":85,"category":"Topper","eng_status":"Good"}]}
