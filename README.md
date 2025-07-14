@@ -2,7 +2,7 @@
 
 Welcome to the **Machine Learning Roadmap**! This repository is a structured guide to help you learn Machine Learning step by step — from basic concepts to advanced algorithms.
 
-This roadmap is inspired by the YouTube video: [Machine Learning Roadmap](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK) *(insert actual video URL here)*. It is designed to help beginners build a solid foundation and grow toward becoming an ML engineer or data scientist.
+This roadmap is inspired by the YouTube video: [Machine Learning Roadmap](https://www.youtube.com/results?search_query=machine+learning+krish+naik+playlist) *(insert actual video URL here)*. It is designed to help beginners build a solid foundation and grow toward becoming an ML engineer or data scientist.
 
 ---
 
