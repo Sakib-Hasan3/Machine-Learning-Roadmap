@@ -72,7 +72,7 @@ Feel free to fork the repo, add your own learning notes or contribute new resour
 ---
 
 ## 📩 Contact
-Have questions or suggestions? Reach out via [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) or raise an issue here.
+Have questions or suggestions? Reach out via [LinkedIn](www.linkedin.com/in/mohammed-sakib-hasan-50ab08362) or raise an issue here.
 
 ---
 
