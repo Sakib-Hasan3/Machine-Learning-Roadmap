@@ -1,3 +1,4 @@
+
 # মাল্টিকলিনিয়ারিটি (Multicollinearity)
 
 মাল্টিকলিনিয়ারিটি একটি গুরুত্বপূর্ণ statistical সমস্যা যা regression analysis-এ দেখা দেয়। এটি machine learning model-এর performance এবং interpretation-এ বিরূপ প্রভাব ফেলে।
@@ -167,5 +168,6 @@ X_pca = pca.fit_transform(X)
 - **Model Validation**: Cross-validation importance
 
 ---
+
 
 **মনে রাখবেন:** Multicollinearity সব সময় সমস্যা নয়। আপনার model-এর উদ্দেশ্য অনুযায়ী সিদ্ধান্ত নিন।
