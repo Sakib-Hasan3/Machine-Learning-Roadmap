@@ -1,3 +1,4 @@
+
 # K-Fold Cross Validation
 
 K-Fold Cross Validation হলো একটি জনপ্রিয় টেকনিক যেখানে পুরো ডেটাসেটকে সমান আকারের K টি ফোল্ডে ভাগ করা হয়।
@@ -312,5 +313,6 @@ for metric in scoring:
 5. **Standard deviation দেখে consistency বুঝুন**
 
 ---
+
 
 **সংক্ষেপে:** K-Fold Cross Validation আপনাকে মডেলের **সত্যিকারের performance** বুঝতে সাহায্য করে, যা একক train-test split দিয়ে সম্ভব নয়।
