@@ -1,3 +1,4 @@
+
 # ক্রস ভ্যালিডেশন (Cross Validation)
 
 মেশিন লার্নিং-এ **Cross Validation (ক্রস ভ্যালিডেশন)** হলো একটি টেকনিক যা দিয়ে আমরা একটি মডেলের পারফরম্যান্স যাচাই করি। এটি মূলত ডেটাসেটকে বিভিন্ন ভাগে ভাগ করে বারবার ট্রেন ও টেস্ট করা হয় যাতে মডেল ওভারফিট না করে এবং জেনারেলাইজেশন ক্ষমতা ভালো হয়।
@@ -199,4 +200,5 @@ scores = cross_val_score(model, X, y, cv=5, scoring=custom_scorer)
 
 
 **মনে রাখবেন:** Cross Validation শুধু model evaluation নয়, এটি model selection ও hyperparameter tuning-এর জন্যও অত্যন্ত গুরুত্বপূর্ণ।
+
 
