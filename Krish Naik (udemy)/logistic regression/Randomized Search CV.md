@@ -1,4 +1,3 @@
----
 
 # 🎯 **Randomized Search CV কী?**
 
@@ -9,7 +8,6 @@
 
 এটি দ্রুত, কার্যকরী, এবং বড় parameter space-এর জন্য অনেক উপযোগী।
 
----
 
 ![Image](https://360digitmg.com/assets/admin/ckfinder/userfiles/images/blog/4-08-2023/image3.png?utm_source=chatgpt.com)
 
@@ -185,4 +183,5 @@ print(rand_search.best_params_)
 * Best hyperparameters return করে + cross-validation করে
 
 ---
+
 
