@@ -1,6 +1,3 @@
-নীচে **“Can Linear Regression Solve Classification Problem?”** প্রশ্নের পূর্ণ, পরিষ্কার ও যুক্তিযুক্ত ব্যাখ্যা **বাংলায়** দেওয়া হলো—
-
----
 
 # ❓ Linear Regression কি Classification Problem সমাধান করতে পারে?
 
@@ -8,7 +5,7 @@
 
 এটি মূলত **regression** এর জন্য তৈরি, অর্থাৎ continuous (সংখ্যামূলক) output ভবিষ্যদ্বাণী করতে।
 
----
+
 
 ![Image](https://www.researchgate.net/profile/Mohamed-Ibn-Khedher/publication/348786135/figure/fig4/AS%3A984268037701639%401611679195505/Execution-time-of-linear-regression-and-classification-problems_Q320.jpg?utm_source=chatgpt.com)
 
@@ -103,3 +100,4 @@ Logistic Regression:
 ✔ Python code comparison
 
 সব বাংলায় দিয়ে দিতে পারি।
+
