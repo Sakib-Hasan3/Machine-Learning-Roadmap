@@ -1,3 +1,4 @@
+
 ---
 
 # 🎯 Logistic Regression — **OVR (One-Vs-Rest / One-Vs-All)** কী?
@@ -187,4 +188,5 @@ print(model.predict([[5.2, 3.4, 1.5, 0.2]]))
 * কিন্তু softmax-এর মতো mathematically elegant নয়
 
 ---
+
 
