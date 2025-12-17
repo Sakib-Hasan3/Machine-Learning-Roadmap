@@ -1,3 +1,4 @@
+
 # 🎯 **Logistic Regression — OVR (One Vs Rest) কী?**
 
 যখন Logistic Regression দিয়ে **multi-class classification** করতে হয় (যেমন: 3 বা তার বেশি ক্লাস), তখন সবচেয়ে জনপ্রিয় পদ্ধতি হলো **OVR**।
@@ -132,6 +133,7 @@ print("Class probabilities:", model.predict_proba([[5.1, 3.5, 1.4, 0.2]]))
 * Useful in high-dimensional sparse data (NLP/text classification)
 
 ---
+
 
 
 
