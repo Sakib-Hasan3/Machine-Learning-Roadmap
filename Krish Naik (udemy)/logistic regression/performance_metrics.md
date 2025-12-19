@@ -1,5 +1,3 @@
-
-
 ---
 
 # 🔍 **Performance Metrics কী?**
@@ -235,4 +233,5 @@ Higher → better separation।
 | Clustering                     | Silhouette, DBI               |
 
 ---
+
 
