@@ -1,3 +1,4 @@
+
 # ❓ Linear Regression কি Classification Problem সমাধান করতে পারে?
 
 **সংক্ষেপে উত্তর: *না, Linear Regression সঠিকভাবে Classification Problem সমাধান করতে পারে না.***
@@ -99,5 +100,6 @@ Logistic Regression:
 ✔ Python code comparison
 
 সব বাংলায় দিয়ে দিতে পারি।
+
 
 
