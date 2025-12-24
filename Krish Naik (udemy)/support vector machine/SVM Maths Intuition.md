@@ -1,3 +1,4 @@
+
 ## 🧠 SVM Maths Intuition (সহজ + ধারণাভিত্তিক ব্যাখ্যা)
 
 ![Image](https://www.researchgate.net/profile/Hamid_Baghaee/publication/330557084/figure/fig5/AS%3A770135056977924%401560625914689/General-classification-hyperplane-representation-of-SVM-algorithm.png?utm_source=chatgpt.com)
@@ -136,4 +137,5 @@ python .\svc_soft_margin_demo.py
 - **Graph + Python দিয়ে visual proof**: decision boundary, margins, support vectors annotate করা।
 
 যেটা দেখতে চান বলুন, আমি যোগ করে দিচ্ছি।
+
 
