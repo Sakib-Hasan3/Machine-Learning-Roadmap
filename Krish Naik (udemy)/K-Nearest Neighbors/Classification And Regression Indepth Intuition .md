@@ -1,3 +1,4 @@
+
 # KNN (K-Nearest Neighbors) — Classification ও Regression: In-Depth বাংলা Intuition
 
 ## 1️⃣ KNN কী? (Core Idea)
@@ -273,6 +274,7 @@ python code/knn_regression.py --k 7 --weights uniform
 - **KNN Regression** → “আমার আশেপাশের মানগুলোর গড়ই আমার মান”
 
 ---
+
 
 
 
