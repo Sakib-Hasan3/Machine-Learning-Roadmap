@@ -1,4 +1,3 @@
-
 # KNN Optimization — KD-Tree ও Ball Tree: In-Depth বাংলা Intuition
 
 ---
@@ -226,5 +225,6 @@ Quick run (Windows PowerShell):
 python -m pip install -r requirements.txt
 python code/knn_tree_benchmark.py --dims 5 20 50 --samples 3000 --queries 100 --k 5 --metric euclidean
 ```
+
 
 
